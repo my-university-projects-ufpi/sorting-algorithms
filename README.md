@@ -1,4 +1,4 @@
-# 📚 Algoritmos de Ordenação — Projeto Acadêmico
+# 📚 Algoritmos de Ordenação
 
 Este repositório contém implementações de algoritmos clássicos de ordenação, desenvolvidas com fins acadêmicos para a disciplina de Estruturas de Dados e Algoritmos.
 
